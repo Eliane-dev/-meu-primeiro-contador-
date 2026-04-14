@@ -8,7 +8,7 @@ Criei um contador interativo com JavaScript, aplicando conceitos básicos de des
 - HTML
 - CSS
 - JavaScript
-- Visual Studio Code
+
 
 ## Funcionalidades
 - Aumentar número
